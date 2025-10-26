@@ -1,4 +1,4 @@
-# 👋 Hi, This is omar!
+# 👋 Hi, This Is Omar!
 <br>👨‍💻 I'm a frontend developer interested in all things Javascript and web development!<br>🛠️ I’m currently working on e-commerce website.<br>🚀 building an angular website with a very high performance.<br>📚 I’m currently learning about mvp. <br>📈 I’m looking to collaborate on software company!
 
 
