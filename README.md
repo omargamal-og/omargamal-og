@@ -6,7 +6,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/omarrgamall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarrgamall" height="30" width="40" /></a>
 <a href="https://fb.com/salman.omar.444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman.omar.444" height="30" width="40" /></a>
-<a href="[https://omargamal-og.github.io/Personal-Portfolio/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="40" /></a>
 <a href="https://instagram.com/omargamal.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omargamal.l" height="30" width="40" /></a>
 </p>
 
