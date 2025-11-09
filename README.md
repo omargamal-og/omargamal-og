@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Omar!
-<br>- 👨‍💻 A passionate Frontend developer interested in all things Javascript and web development!<br>- 🛠️ I’m currently working on e-commerce website.<br>- 🚀 building an angular website with a very high performance.<br>- 📚 I’m currently learning about mvp. <br>- 📈 I’m looking to collaborate on software development!<br><br>- 👨‍💻 All of my projects are available at [this link.](https://www.linkedin.com/in/omarrgamall/)<br>- 💬 Ask me about **web development.**<br>- 📫 How to reach me **omargamalemam@gmail.com**<br><br>- ⚡ Fun fact **I think I'm funny, but not at work.** <br>
+<br>- 👨‍💻 A passionate Frontend developer interested in all things Javascript and web development!<br>- 🛠️ I’m currently working on e-commerce website.<br>- 🚀 building an angular website with a very high performance.<br>- 📚 I’m currently learning about mvp. <br>- 📈 I’m looking to collaborate on software development!<br><br>- 👨‍💻 All of my projects are available at [this link.]([https://www.linkedin.com/in/omarrgamall/](https://omargamal-og.github.io/Personal-Portfolio/))<br>- 💬 Ask me about **web development.**<br>- 📫 How to reach me **omargamalemam@gmail.com**<br><br>- ⚡ Fun fact **I think I'm funny, but not at work.** <br>
 
 
 ## 🌐 Socials:
